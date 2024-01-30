@@ -1,0 +1,5 @@
+DEBUG:root:The Multiplication of 5 and 2 : 10
+INFO:root:The Multiplication of 5 and 2 : 10
+WARNING:root:The Multiplication of 5 and 2 : 10
+ERROR:root:The Multiplication of 5 and 2 : 10
+CRITICAL:root:The Multiplication of 5 and 2 : 10
