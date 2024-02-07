@@ -1,4 +1,3 @@
-Of course! Here's the simplified README without the license section:
 
 # Python Selenium Framework Automation
 
